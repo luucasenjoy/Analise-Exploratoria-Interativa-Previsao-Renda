@@ -1,4 +1,4 @@
-# Projeto 2
+Análise Exploratoria Interativa de Previsão de Renda
 
 Segundo projeto do curso ciência de dados.
 
